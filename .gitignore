@@ -1,3 +1,44 @@
 en/book
 zh-CN/book
 .DS_Store
+# Rust/Cargo generated files
+/target/
+Cargo.lock
+**/*.rs.bk
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts and compiled files
+*.o
+*.a
+*.rlib
+*.rmeta
+
+# Dependency directories
+*/libs/*
+*/target/*
+
+# Auto-generated documentation
+/target/doc/
+
+# Miscellaneous
+.DS_Store
+*.tmp
+*.log
+*.orig
+*.rej
+*.class
+*.exe
+*.dll
+*.pdb
+*.lib
+*.app
+*.dylib
+*.so
+*.rlib
+*.dSYM/
+*.rmeta
