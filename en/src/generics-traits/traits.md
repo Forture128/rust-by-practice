@@ -143,7 +143,7 @@ fn main() {
 
     println!("One second looks like: {:?}", _one_second);
     let _this_is_true = (_one_second == _one_second);
-    let _this_is_true = (_one_second > _one_second);
+    let _this_is_false = (_one_second > _one_second);
 
     let foot = Inches(12);
 
@@ -172,7 +172,7 @@ In Rust, many of the operators can be overloaded via traits. That is, some opera
 use std::ops;
 
 // Implement fn multiply to make the code work.
-// As mentiond above, `+` needs `T` to implement `std::ops::Add` Trait.
+// As mentioned above, `+` needs `T` to implement `std::ops::Add` Trait.
 // So, what about `*`?  You can find the answer here: https://doc.rust-lang.org/core/ops/
 fn multipl
 
