@@ -1,0 +1,1 @@
+/Users/mfv-computer-0158/Personal/rust-by-practice/simple_project/simple-chat-terminal/simple-chat-terminal-client/target/debug/simple-chat-terminal-client: /Users/mfv-computer-0158/Personal/rust-by-practice/simple_project/simple-chat-terminal/simple-chat-terminal-client/src/main.rs
