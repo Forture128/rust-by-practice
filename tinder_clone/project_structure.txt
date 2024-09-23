@@ -1,0 +1,17 @@
+tinder_clone/
+├── config/
+│   ├── dev.env
+│   └── prod.env
+├── services/
+│   ├── user_profile_service/
+│   ├── matching_service/
+│   ├── swipe_service/
+│   └── notification_service/
+├── common/
+│   ├── models.rs
+│   └── utils.rs
+├── .gitignore
+├── Cargo.lock
+├── Cargo.toml
+├── docker-compose.yml
+└── README.md

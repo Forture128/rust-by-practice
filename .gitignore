@@ -42,3 +42,5 @@ Cargo.lock
 *.rlib
 *.dSYM/
 *.rmeta
+zerotomastery.io-rust /solutions/activities/src/*
+exercism_rust/rust/gigasecond/.exercism/*
